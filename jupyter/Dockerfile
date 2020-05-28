@@ -1,4 +1,4 @@
 FROM jupyter/scipy-notebook
 
-RUN conda install -c conda-forge --quiet --yes \
-    'fbprophet=0.6'
+COPY environment.yml environment.yml
+RUN conda env update -n base --file environment.yml
