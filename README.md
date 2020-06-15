@@ -6,8 +6,7 @@ Train a Fbprophet model on a dataset transformed with scikit-learn's SVD
 ### Run with Docker on your machine (must have Docker installed)
 1. `git clone https://github.com/exchez/svd_forecasting.git`
 2. `cd svd_forecasting`
-3. `docker-compose build`
-4. `docker-compose up`
+3. `docker-compose up`
 
 ### Run on Binder
 1. Click the link to binder above
