@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exchez/svd_forecasting/blob/master/SVD_Forecaster.ipynb)][![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/exchez/svd_forecasting/master) [![NBViewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/exchez/svd_forecasting/blob/master/SVD_Forecaster.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exchez/svd_forecasting/)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/exchez/svd_forecasting/master) [![NBViewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/exchez/svd_forecasting/blob/master/SVD_Forecaster.ipynb)
 
 # SVD Forecasting
 Train a Fbprophet model on a dataset transformed with scikit-learn's SVD
